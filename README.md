@@ -9,7 +9,8 @@ If you have CodeBlocks / Dev C++ you can just copy the code and run it normally 
 If you dont you can use this link (https://www.programiz.com/cpp-programming/online-compiler/) then delete the code in the left side then copy paste my code, dont forget to run it!
 
 Picture on how the output will look like
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/28871f40-cd4d-455e-aa49-a94e9211cca2" />
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/28871f40-cd4d-455e-aa49-a94e9211cca2" />
 
 
 Apps i used:
