@@ -11,7 +11,7 @@ If you dont you can use this link (https://www.programiz.com/cpp-programming/onl
 Picture on how the output will look like
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/1ccea322-fb15-4f22-8de9-5a8f3b9f81b9" />
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/28871f40-cd4d-455e-aa49-a94e9211cca2" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/28871f40-cd4d-455e-aa49-a94e9211cca2" />
 
 
 Apps i used:
